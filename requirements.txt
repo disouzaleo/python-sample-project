@@ -1,0 +1,6 @@
+certifi==2019.11.28
+Hello==0.0.1
+mkl-fft==1.0.15
+mkl-service==2.3.0
+numpy==1.18.1
+six==1.14.0
